@@ -8,6 +8,6 @@ Trying to find ideas for solutions to add to your portfolio can be daunting at t
 
 Each use case will give you a fantasy background, a problem statement, requirements, user stories, and dummy datasets. There is no wrong or right way. It's an opportunity to paint a blank canvas and use your imagination to come up with some really cool solutions.
 
-I highly recommend that when you do build these solutions, you do so in your own tenant. If you don't have your own personal tenant, you can sign up for a Microsoft Developer Plan [here] (https://developer.microsoft.com/en-us/microsoft-365/dev-program) and renew it every 90 days.
+I highly recommend that when you do build these solutions, you do so in your own tenant. If you don't have your own personal tenant, you can sign up for a Microsoft Developer Plan [here](https://developer.microsoft.com/en-us/microsoft-365/dev-program) and renew it every 90 days.
 
 If you enjoy these use cases and have some of your own you would like to see on here, send me a mail at usecase@nati-turtledove.com.
