@@ -1,6 +1,8 @@
-About
-The School of Legends is now a full-time education sector focusing on helping young individuals make their way into a low-code career whilst still primarily focusing on an appropriate student curriculum. Students now attend the School of Legends do learn low-code development, whilst being taught their required subjects that they would have in any other school.
 # Classroom Attendance Tracker Use Case
+
+## About
+The School of Legends is now a full-time education sector focusing on helping young individuals make their way into a low-code career whilst still primarily focusing on an appropriate student curriculum. Students now attend the School of Legends do learn low-code development, whilst being taught their required subjects that they would have in any other school.
+
 
 ## Use Case
 Student attendance is low being that the school is relatively new. The principle would like to gain clarity on student attendance per subject per grade. This will help the program identify subjects that students don’t enjoy, which students come late, and various other factors.
@@ -10,7 +12,7 @@ In order to make these decisions, each teacher will need to complete an attendan
 The school need a simple solution that allows teachers to select the class they are teaching and view all the students for that class. They will then need to mark students’ attendance accordingly. The principle needs to be able to view all the results on a monthly basis and should be the only user with access to make changes to past attendance registers. 
 
 ## Requirements
-##% User Stories
+### User Stories
 1.	Teachers can select the class they are teaching and view all their students. 
 2.	Teachers can mark students as Absent, Late or Attended.
 3.	Teachers can view all their student’s attendance results when needed.
