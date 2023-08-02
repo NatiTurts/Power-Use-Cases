@@ -21,5 +21,5 @@ The school need a simple solution that allows teachers to select the class they 
 
 
 ## Resources
-•	School of Legends Student Records.xlsx - [Download here]([https://github.com/NatiTurts](https://github.com/NatiTurts/Power-Platform-Use-Cases/tree/main/Classroom%20Attendance%20Tracker/Resources)https://github.com/NatiTurts/Power-Platform-Use-Cases/tree/main/Classroom%20Attendance%20Tracker/Resources)
+•	School of Legends Student Records.xlsx - [Download here](https://github.com/NatiTurts](https://github.com/NatiTurts/Power-Platform-Use-Cases/tree/main/Classroom%20Attendance%20Tracker/Resources)https://github.com/NatiTurts/Power-Platform-Use-Cases/tree/main/Classroom%20Attendance%20Tracker/Resources)
 
