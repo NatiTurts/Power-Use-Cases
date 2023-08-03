@@ -1,5 +1,5 @@
 # Power Platform Use Cases
-![Power Use Case](/Power Use Case.png)  
+![Power Use Case](Power Use Case.png)  
 
 Having been on both the giving and receiving ends of interviews, I always felt that having something to showcase your skills was incredibly beneficial.
 
