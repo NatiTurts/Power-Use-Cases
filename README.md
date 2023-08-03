@@ -1,5 +1,5 @@
 # Power Platform Use Cases
-![Power Use Case]([Power Use Case.png](https://github.com/NatiTurts/Power-Use-Cases/blob/main/Power%20Use%20Cases.png))
+![Power Use Case](https://github.com/NatiTurts/Power-Use-Cases/blob/main/Power%20Use%20Cases.png)
 
 Having been on both the giving and receiving ends of interviews, I always felt that having something to showcase your skills was incredibly beneficial.
 
